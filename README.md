@@ -10,7 +10,7 @@
 
 <!-- "```" faz com que o texto fique copiavel e em uma caixa como visto no preview -->
 ```
-colocar o que precisa aqui
+node app.js
 ```
 <!-- :hammer: é um emoji, existem varioss -->
 # :hammer: Funcionalidades
